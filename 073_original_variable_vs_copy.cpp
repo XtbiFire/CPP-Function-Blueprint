@@ -46,10 +46,4 @@ Output:
 Copy: 50
 Original: 20
 
-Time Complexity:
-O(1)
-
-Space Complexity:
-O(1)
-
 */
