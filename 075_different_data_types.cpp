@@ -57,10 +57,4 @@ A
 90
 B
 
-Time Complexity:
-O(1)
-
-Space Complexity:
-O(1)
-
 */
