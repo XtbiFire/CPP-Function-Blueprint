@@ -48,10 +48,4 @@ Output:
 15 30
 10 20
 
-Time Complexity:
-O(1)
-
-Space Complexity:
-O(1)
-
 */
