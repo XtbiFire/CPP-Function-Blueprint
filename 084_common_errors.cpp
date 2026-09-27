@@ -44,10 +44,4 @@ Reason:
 original variable
 does not change.
 
-Time Complexity:
-O(1)
-
-Space Complexity:
-O(1)
-
 */
