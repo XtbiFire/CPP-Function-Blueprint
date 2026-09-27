@@ -46,10 +46,4 @@ Output:
 Inside Function: 100
 Inside Main: 20
 
-Time Complexity:
-O(1)
-
-Space Complexity:
-O(1)
-
 */
