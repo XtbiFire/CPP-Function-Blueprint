@@ -1,6 +1,6 @@
 # 🧩 C++ Function Lab
 
-## 🏴‍☠️ Learning Levels
+## 🏁 Learning Levels
 
 🔻 Level 1 • Function Basics 01-18
 
