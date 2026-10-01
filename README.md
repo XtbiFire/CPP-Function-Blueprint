@@ -1,4 +1,4 @@
-# 🌐 C++ Function Masterclass
+# 🧩 C++ Function Masterclass
 
 ## 🏴‍☠️ Learning Levels
 
