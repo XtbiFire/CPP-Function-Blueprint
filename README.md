@@ -1,4 +1,4 @@
-## 📂 C++ Function Core
+## 📂 C++ Function DNA
 
 ### 🎓 Learning Levels
 
