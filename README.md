@@ -1,4 +1,4 @@
-## 📂 C++ Function Lab
+## 📂 C++ Function Core
 
 ### 🎓 Learning Levels
 
