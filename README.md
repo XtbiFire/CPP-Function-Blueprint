@@ -20,8 +20,8 @@
 
 ▪️ Level 9▫️Return by reference 88-96
 
-▪️ Level 10▫️Functions with Arrays 97-109
+▪️ Level 10▫️Function with Arrays 97-109
 
-▪️ Level 11▫️Function with String 110-139
+▪️ Level 11▫️Function with Strings 110-139
 
 ▪️ Level 12▫️Function Pointers 140-
